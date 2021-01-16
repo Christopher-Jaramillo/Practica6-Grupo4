@@ -1,3 +1,4 @@
+import ec.edu.epn.Calculadora;
 import org.junit.*;
 
 import static org.junit.Assert.*;
